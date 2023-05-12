@@ -1,0 +1,395 @@
+# Довідка з плати
+
+## Зміст
+
+* [What is Cboard?](#WhatisCboard)
+* [Registration and login](#Registrationandlogin) 
+    * [How do I register for Cboard?](#HowdoIregisterforCboard)
+    * [Can I register myself using my social media accounts?](#CanIregistermyselfusingmysocialmediaaccounts)
+    * [How do I log in to Cboard once I am a registered user?](#HowdoIlogintoCboardonceIamaregistereduser)
+    * [How do I logout?](#HowdoIlogout)
+    * [What is the difference between a registered and a non-registered user?](#Whatisthedifferencebetweenaregisteredandanon-registereduser)
+    * [How do I update my user information?](#HowdoIupdatemyuserinformation)
+    * [How do I reset my password?](#HowdoIresetmypassword)
+* [Price](#Price) 
+    * [How much does Cboard cost?](#HowmuchdoesCboardcost)
+* [Features](#Features) 
+    * [What devices and OS are supported?](#WhatdevicesandOSaresupported)
+    * [Which languages are supported by Cboard?](#WhichlanguagesaresupportedbyCboard)
+    * [Can Cboard read my message out aloud?](#CanCboardreadmymessageoutaloud)
+    * [Speech capabilities](#Speechcapabilities)
+    * [Export and import](#Exportandimport)
+    * [Display capabilities](#Displaycapabilities)
+    * [Can I change any navigation settings?](#CanIchangeanynavigationsettings)
+    * [Navigation through the interface](#Navigationthroughtheinterface)
+* [настройки](#Settings) 
+    * [How do I access settings in Cboard?](#HowdoIaccesssettingsinCboard)
+    * [How do I print my board set in Cboard?](#HowdoIprintmyboardsetinCboard)
+    * [How do I see Cboard in fullscreen?](#HowdoIseeCboardinfullscreen)
+    * [How do I share a board?](#HowdoIshareaboard)
+    * [How do I share a phrase?](#HowdoIshareaphrase)
+* [Talking](#Talking) 
+    * [How do I add a personally recorded voice to symbols on Cboard?](#HowdoIaddapersonallyrecordedvoicetosymbolsonCboard)
+    * [How do I switch to a different voice?](#HowdoIswitchtoadifferentvoice)
+    * [How do I change how a voice sounds?](#HowdoIchangehowavoicesounds)
+* [Board Editing](#BoardEditing) 
+    * [How do I create an empty board?](#HowdoIcreateanemptyboard)
+    * [How do I personalize an existing board in Cboard?](#HowdoIpersonalizeanexistingboardinCboard)
+    * [Can I use my own pictures when editing a board?](#CanIusemyownpictureswheneditingaboard)
+    * [Can I change the ordering of the elements in a board?](#CanIchangetheorderingoftheelementsinaboard)
+    * [How do I select multiple elements to edit?](#HowdoIselectmultipleelementstoedit)
+    * [How can I find new symbols when I am editing a tile?](#FindSymbols)
+    * [Can I place board tiles in fixed positions?](#FixedBoards)
+    * [How do I set a specific number of rows and columns in my board?](#FixedRows)
+* [Export and import](#Exportandimport) 
+    * [How do I export my board in Cboard?](#HowdoIexportmyboardinCboard)
+    * [How do I import a board into Cboard?](#HowdoIimportaboardintoCboard)
+    * [What file format does Cboard use for import/export?](#WhatfileformatdoesCboarduseforimportexport)
+* [Display capabilities](#Displaycapabilities) 
+    * [What can I change on the display?](#WhatcanIchangeonthedisplay)
+    * [Can I resize buttons on Cboard?](#CanIresizebuttonsonCboard)
+    * [Screen scroll through big buttons](#BigScrollButtons)
+* [Scanning](#Scanning) 
+    * [Can I use scanning techniques to access symbols?](#CanIusescanningtechniquestoaccesssymbols)
+* [Communicator builder](#CommunicatorBuilder) 
+    * [What is the communicator builder?](#Whatiscommbuilder)
+    * [Communicator boards](#CommunicatorBoards)
+    * [Public boards](#PublicBoards)
+    * [All my boards](#Allmyboards)
+
+## <a name='WhatisCboard'></a>Що таке картон?
+
+Cboard - це безкоштовний веб-додаток для дітей та дорослих з порушеннями мови та мови, що полегшує спілкування з картинками та текстовим мовленням.
+
+<div><iframe width="420" height="315" src="https://www.youtube.com/embed/pjoLEtiFf2A" frameborder="0" allowfullscreen></iframe></div>
+
+## <a name='Registrationandlogin'></a>Реєстрація та вхід
+
+### <a name='HowdoIregisterforCboard'></a>Як зареєструватися на Cboard?
+
+Для реєстрації на CBoard, почніть з кроками на сторінці привітання, де ви знайдете вибір логінів.
+
+![Веб-сайт Cboard](/images/help/website.png "Cboard website")
+
+![Сторінка привітання](/images/help/welcome-page.png "Welcome page")
+
+Якщо ви новий користувач, натисніть SIGN UP, і коротка форма звернеться за запитом до основної інформації для того, щоб створити свій обліковий запис.
+
+![Реєстрація на Cboard](/images/help/signup.png "Cboard signup")
+
+Після того, як ви заповнили цю інформацію, ви отримаєте електронне повідомлення після того, як перейдете за посиланням, щоб підтвердити свій обліковий запис.
+
+![Email signup](/images/help/signupemail.png "Email signup")
+
+This information is only held by the company to support use of Cboard and offer help when necessary. It is not shared with other organizations, (See [Privacy details](https://www.cboard.io/privacy/)).
+
+Після того, як ви підтвердили свій обліковий запис, ви отримаєте доступ до Cдошки, та отримаєте ще один лист, за яким ви успішно підтвердили свій обліковий запис.
+
+### <a name='CanIregistermyselfusingmysocialmediaaccounts'></a>Чи можу я зареєструватися за допомогою облікових записів соціальних медіа?
+
+Yes! On the login page, you will be given the option to sign up with your Google or Facebook account if you wish to do so. You can also register with an e-mail address.
+
+### <a name='HowdoIlogintoCboardonceIamaregistereduser'></a>Як я можу увійти до Cboard, коли я зареєстрований користувач?
+
+To log in to Cboard, you follow the first step used to sign up, but instead of selecting SIGN UP on the Welcome screen, select LOGIN. You will then be asked to provide the e-mail you initially signed up with, and the password you set up.
+
+![Логін Cboard](/images/help/login.png "Cboard login")
+
+### Які різні параметри для налаштування дошки?
+
+Once you login to Cboard, you can access different options to configure and develop the Communication Board provided when Cboard is in unlocked mode. See the list of all the key options below:
+
+![Налаштування Cboard](/images/help/settings.png "Cboard settings")
+
+### <a name='HowdoIlogout'></a>Як вийти?
+
+You can log out by selecting the settings icon, and the option will appear in red. You can also select the lock symbol on the right corner, click three times and once you unlocked the screen and the red bar appears, select the icon to the left of the lock (your picture if you have one loaded) and the option to log out will appear in red.
+
+![Вихід із Cboard](/images/help/logout.png "Cboard logout")
+
+### <a name='Whatisthedifferencebetweenaregisteredandanon-registereduser'></a>Яка різниця між зареєстрованим та незареєстрованим користувачем?
+
+A registered user is able to personalize their boards, and the changes made will be saved to their account so that when they log back in, they can use their customized boards. A non-registered user won't be able to save changes safely. We recommend registering just in case, so your changes are guaranteed to be saved.
+
+### <a name='HowdoIupdatemyuserinformation'></a>Як оновити інформацію про користувача?
+
+To update your user information, follow the same steps you would use if you were trying to log out. Select the lock symbol on the top right corner of the board – three clicks or taps, and once you unlock the screen, select the icon to the left of the lock (user name initials, photo), and you can then edit your user information.
+
+### <a name='HowdoIresetmypassword'></a>Як мені відновити пароль?
+
+Для того, щоб скинути пароль, будь ласка, напишіть на support@cboard.io і ми повернемося до вас.
+
+## <a name='Price'></a>Ціна
+
+### <a name='HowmuchdoesCboardcost'></a>Скільки коштує дошка?
+
+Cboard абсолютно безкоштовно.
+
+## <a name='Features'></a>Особливості
+
+### <a name='WhatdevicesandOSaresupported'></a>Які пристрої та ОС підтримуються?
+
+Cboard is available online using a wide variety of devices, including desktops, tablets and mobile phones using Mac, Windows and Android operating systems. It is best viewed in browsers such as Chrome, Firefox, Edge and Safari and an Android app is available from Google Play.
+
+![Підтримка браузера](/images/help/browsers.png "Browser support")
+
+Because Cboard is a web based app it will respond to the settings provided by the individual browsers. This may mean you have different results to the settings provided by Cboard. For example you may find different speech options being offered.
+
+Не забувайте, що ви також можете використовувати масштабування або масштаб браузера в залежності від розміру комп'ютера, планшета або екрана телефону.
+
+Будь ласка, попросіть Cboard використовувати режим високої контрастності для тих, хто має візуальне погіршення як варіанти, засновані на браузері, не є корисними при використанні цього типу веб-програми.
+
+### <a name='WhichlanguagesaresupportedbyCboard'></a>Які мови підтримують Cboard?
+
+Cboard comes with support for 33 languages. To select a different language go to SETTINGS – select LANGUAGE and those available will appear. Make a choice and a ‘tick’ will appear beside the language.
+
+<div><iframe width="420" height="315" src="https://www.youtube.com/embed/HHq9b3dJ0zM" frameborder="0" allowfullscreen></iframe></div>
+
+### <a name='CanCboardreadmymessageoutaloud'></a>Чи може Cboard читати моє повідомлення?
+
+Yes, Cboard uses the synthetic speech output available on your device to read out individual labels found below each symbol as they are added to the message output box. You can select a complete message and it will also be read aloud. If a personalised recording of a sound, word or phrase has been added to a symbol (instructions under Talking – Voice Recordings) you will hear that recording instead of the synthesised voice. This can be very helpful where a translation is not available in a language, a child’s voice is needed or an accent is unacceptable. Please ensure web access has been given to your microphone.
+
+### <a name='Speechcapabilities'></a>Можливості мовлення
+
+In order to adjust speech capabilities, go into SETTINGS, and under the LANGUAGE category is the SPEECH category. When you select SPEECH, you will be able to edit the pitch and pace of speech on Cboard.
+
+![Можливості мовлення](/images/help/speech.png "Speech capabilities")
+
+### <a name='Exportandimport'></a>Експорт та імпорт
+
+Both options to export are within SETTINGS in the SYSTEM category, below Language and Speech. The EXPORT category will give you the option to upload either an OpenBoard or PDF. The IMPORT category will open your saved files once you select RESTORE.
+
+![Експорт можливостей](/images/help/export.png "Export capabilities")
+
+### <a name='Displaycapabilities'></a>Показати можливості
+
+Display settings can be edited in SETTINGS, within the SYSTEM category. The Display option is right below Export and Import. One you select DISPLAY, you can change the UI size as well as the app Font size by selecting the size you want. The red dot should be under the size you want to choose.
+
+![Показати можливості](/images/help/display.png "Display capabilities")
+
+### <a name='CanIchangeanynavigationsettings'></a>Чи можу я змінити будь-які навігаційні налаштування?
+
+Use the NAVIGATION section to edit and facilitate the way you use to move around Cboard and delete symbols in the message box. Navigation at the end of the SYSTEM Category in SETTINGS allows you to have a larger ‘back’ button that is easier to select. It is also possible to allow a delete (‘x’) button to appear above each symbol as they are presented within the message box. This can make it easier to delete symbols within a sentence. But be aware of user needs as it can also confuse some individuals.
+
+### <a name='Navigationthroughtheinterface'></a>Навігація через інтерфейс
+
+In order to edit and facilitate navigating through Cboard, select NAVIGATION, the last menu item within SYSTEM (all in Settings) allows you to add certain details to make using the board easier. The first option within Navigation allows a larger ‘back’ button that is easier to select because of the size. The second adds an ‘x’ button to make it easier to delete symbols, and the third makes it easier to unlock by requiring only one click to unlock settings.
+
+![Навігаційні можливості](/images/help/navigation.png "Navigation capabilities")
+
+## <a name='Settings'></a>настройки
+
+### <a name='HowdoIaccesssettingsinCboard'></a>Як я можу отримати доступ до налаштувань на дошці?
+
+Після того, як ви увійдете у Card, відкриється ця гостьова сторінка.
+
+In order to access SETTINGS, select the small lock on the right-hand side three times, below the arrow. Once you have done this, a grey bar will appear below the black HOME bar, and the ‘settings’ button will appear directly to the left of the lock on the HOME bar, the second from the right.
+
+### <a name='HowdoIprintmyboardsetinCboard'></a>Як надрукувати свою дошку на дошці?
+
+To print your board, press the printer logo on the left hand side of the black HOME bar, after having unlocked the HOME page. An Adobe Portable Document (.pdf) will be downloaded to your technology.
+
+### <a name='HowdoIseeCboardinfullscreen'></a>Як побачити Cboard на повноекранному режимі?
+
+Для того, щоб побачити Cboard в повноекранному режимі, розблокуйте екран, натиснувши символ блокування правої сторони, а потім на верхньому рядку (чорна панель), другий символ зліва, який виглядає як прямокутник, розширює екран.
+
+![повноекранні можливості](/images/help/fullscreen.png "Fullscreen")
+
+### <a name='HowdoIshareaboard'></a>Як я можу поділитися дошкою?
+
+Щоб поділитися дошкою, розблокуйте екран, натиснувши символ блокування правою частиною, а потім на верхньому рядку (чорна смуга), третій символ праворуч дає вам можливість поділитися вашою дошки на будь-якому листі, Facebook, Twitter або скопіюйте посилання, щоб відправити комусь.
+
+<div><iframe width="420" height="315" src="https://www.youtube.com/embed/fE0R6HzZ9O4" frameborder="0" allowfullscreen></iframe></div>
+
+### <a name='HowdoIshareaphrase'></a>Як я можу поділитися цією фразою?
+
+Щоб поділитися фразою, тільки вперше, розблокуйте екран, перейдіть до меню Налаштування > Навігація та Кнопки > і увімкніть опцію «Показати роздачу фрази».
+
+![Налаштування поширення фрази-сигналом](https://user-images.githubusercontent.com/21298844/128038972-a2848d47-2675-4e2d-9a15-6f93186f29d6.png)
+
+Assemble a phrase. Then press the share icon that appears on the right of the output phrase bar. Select the social network where you want to share the phrase. One dialog would be open with the phrase in a text field. Press the submit button to share it. If you want to copy the phrase on your clipboard, press the share button and then 'copy to clipboard' option. One Notification would be shown on your screen with a succes message.
+
+![Кнопка "поділитися" фраза"](https://user-images.githubusercontent.com/21298844/128044322-d61491c6-7168-4615-8117-244dc872091e.png)
+
+## <a name='Talking'></a>Розмови
+
+### <a name='HowdoIaddapersonallyrecordedvoicetosymbolsonCboard'></a>Як додати персональний запис до символів на дошці?
+
+1. Перейдіть до дошки, яку ви хочете використовувати.
+
+2. Розблокуйте дошку за допомогою блокування з правого боку.
+
+3. Виберіть кнопку ЗРЕДИТИ зліва.
+
+4. Choose which symbol cell or tile to which you want to add a voice recording. Once you select the tile or a series of tiles, a blue tick will appear in each one and they will be highlighted.
+
+5. Виберіть піктограму PENCIL у правій правій частині світло-синьої смуги.
+
+6. Як тільки плитка відкриється, вам надається можливість використовувати диктофон для додавання звуку, слова чи фрази тощо.
+
+7. Додайте мітку для вокалізації
+
+8. Нарешті, виберіть символ мікрофона та запишіть його, ви можете записати кілька разів і відтворити його, перш ніж зберегти його на дошці.
+    
+    Якщо ви вибрали кілька символів, використовуйте НАДКЛЮЧЕНО, щоб перейти до наступного символу та повторити процес.
+
+<div><iframe width="420" height="315" src="https://www.youtube.com/embed/KZwCP4PkM4I" frameborder="0" allowfullscreen></iframe></div>
+
+### <a name='HowdoIswitchtoadifferentvoice'></a>Як мені змінити голос на інший?
+
+In order to adjust speech capabilities/voice, go into settings, and under the LANGUAGE category is the SPEECH category. When you select SPEECH you will be able to edit the pitch and pace of speech on Cboard. You can also record your own voice for the symbols following the steps on the answer for “How do I add a personally recorded voice to symbols on Cboard?”
+
+### <a name='HowdoIchangehowavoicesounds'></a>Як змінити голосові звуки?
+
+In order to adjust speech capabilities/voice/sound, go into SETTINGS, and under the LANGUAGE category select the SPEECH category. You will then be able to edit the pitch and pace of speech on Cboard.
+
+## <a name='BoardEditing'></a>Редагування ради
+
+### <a name='HowdoIcreateanemptyboard'></a>Як створити порожню дошку?
+
+На платі порожня плата є еквівалентною теці.
+
+Якщо ви хочете створити нову або пусту дошку, ви повинні створити нову папку, і це створить нову дошку в області зберігання Cboard (яку можна побачити, коли ви переходите до BOARDS на середній барі в режимі редагування).
+
+Нова порожня дошка буде відразу ж доступна для редагування і її встановлення як коренева дошка (використавши кнопку будівництва), це значить, що вона буде першою дошкою, яку ви побачите наступного разу при відкриванні.
+
+To create a new folder, begin by unlocking the screen selecting the lock button on the right hand side. Once you unlock the screen, select the plus (+) symbol on the right hand side, in order to ADD TILE. You will then be given the option to add a Tile / BUTTON which is the first and automatic option or select the FOLDER This action makes a NEW BOARD to which you can add more tiles and folders.
+
+Once you have named the folder you can upload an image in a similar manner to making a tile with a color setting and label. This new folder will automatically link to a board above it (if included a row of tiles). It will appear in your list of boards as an empty board until it is populated with symbols and labels.
+
+<div><iframe width="420" height="315" src="https://www.youtube.com/embed/FPfbrAtj1Zg" frameborder="0" allowfullscreen></iframe></div>
+
+### <a name='HowdoIpersonalizeanexistingboardinCboard'></a>Як я персоналізую існуючу дошку на дошці?
+
+In order to personalize an existing board, select the LOCK on the top right hand corner of the bar above the board, (below the arrow with a cross). Once you have done this, another bar will appear below the black HOME bar, and you will find a small block (EDIT) icon on the left hand side to add a tile or cell. Once the block is selected, the grey bar should turn blue, and on the right hand side you will see a small trash can and a pencil.
+
+![персоналізувати наявну дошку](/images/help/personalize.png "personalize an existing board")
+
+Для того, щоб персоналізувати дошку, виберіть олівець і Ви зможете змінити ярлик, загрузіть зображення і додайте Вокалізацію.
+
+<div><iframe width="420" height="315" src="https://www.youtube.com/embed/sRnVvafKBLM" frameborder="0" allowfullscreen></iframe></div>
+
+### <a name='CanIusemyownpictureswheneditingaboard'></a>Чи можу я використовувати власні фотографії при редагуванні дошки?
+
+Yes, you can use your own picture when editing a board. In order to use your own picture, you can upload the image when you create a new tile (by selecting the PLUS SIGN (+) on the grey bar after unlocking the page). You can also edit an existing tile with your own picture.
+
+### <a name='CanIchangetheorderingoftheelementsinaboard'></a>Чи можу я змінити порядок елементів дошки?
+
+Yes! When you are editing a board, unlock the screen using the LOCK symbol. Then select the EDIT block icon on the left hand side (below the BUILD icon). You can then drag the pictogram/symbol or folder to wherever you want to put it within the same board.
+
+### <a name='HowdoIselectmultipleelementstoedit'></a>Як вибрати кілька елементів для редагування?
+
+The same way you change the ordering of elements in a board, but instead of selecting and dragging, you choose the circle inside the pictogram/symbol square. To edit many symbols you can choose more than one. After doing so, select the PENCIL icon on the right hand side and this will allow you to edit the elements selected.
+
+<div><iframe width="420" height="315" src="https://www.youtube.com/embed/ZgRUamoF8Vk" frameborder="0" allowfullscreen></iframe></div>
+
+### <a name='FindSymbols'></a>Як я можу знаходити нові символи при редагуванні плитки?
+
+Select the EDIT block icon on the left hand side of the board bar and choose the pictogram/symbol you wish to change. Select it and once the blue ring has a tick, go to the PENCIL icon on the right. Having selected the pencil you will notice that there is a MAGNIFYING GLASS icon for symbol searching. When the search feature is activated you will see SEARCH SYMBOL LIBRARY in an edit bar. Type in the concept / label / word you are looking for and symbols will appear. Once you have selected one symbol it will automatically return you to the edit TILE page.
+
+<div><iframe width="420" height="315" src="https://www.youtube.com/embed/-8OXT3b4Flk" frameborder="0" allowfullscreen></iframe></div>
+
+### <a name='FixedBoards'></a>Чи можна розміщувати плитки у фіксованих позиціях?
+
+By default, when a new board is created, Cboard will add a **fluent board**. Anyway, it is possible to transform the board into a **fixed board**. They have the following features:
+
+* Сітка не змінюватиметься для різних розмірів екрану або орієнтації пристрою. 
+* Кількість рядків і стовпців можна налаштувати. 
+* Плитки матимуть фіксовані позиції в сітці. 
+
+To convert a board into a fixed board, simply edit the board and switch the option in the toolbar to make it fixed. Your board will change its appearance and the rows and columns indicators will be displayed.
+
+![Фіксована дошка](/images/help/fixedBoard.png "Fixed board")
+
+### <a name='FixedRows'></a>Як мені встановити певну кількість рядків і колон в моїй дошці?
+
+First, you have to transform the board into a **fixed board** (see previous topic). In edition mode, your board will display rows and columns indicators. You can interact with these controls in order to increase or decrease the number of rows and columns you want.
+
+<div><iframe width="420" height="315" src="https://www.youtube.com/embed/XEAz85zrZ70" frameborder="0" allowfullscreen></iframe></div>
+
+## <a name='Exportandimport-1'></a>Експорт та імпорт
+
+### <a name='HowdoIexportmyboardinCboard'></a>Як я експортую свою дошку на Cboard?
+
+Щоб експортувати вашу дошку в дошці, перейдіть до SETTINGS, і як тільки ви відкриєте параметри, параметр EXPORT буде відображатися як стрілка вниз під мовами і мовою.
+
+Виберіть EXPORT, і завантажте Cboard обравши або OPENBOARD або EXPORT.
+
+### <a name='HowdoIimportaboardintoCboard'></a>Як імпортувати дошку до дошки?
+
+In order to import a board, follow the steps used to Export. IMPORT is below Export, an upward facing arrow with a horizontal bar below it.
+
+### <a name='WhatfileformatdoesCboarduseforimportexport'></a>Який формат файлу має Cboard використовувати для імпорту/експорту?
+
+Для того, щоб імпортувати та експортувати дошки у вас є два варіанти:
+
+* Використовуйте власні файлові дошки Cboard.
+* Use OpenBoard formatted files. [Learn more about Open Board Format](https://www.openboardformat.org/)
+
+## <a name='Displaycapabilities-1'></a>Можливості відображення
+
+### <a name='WhatcanIchangeonthedisplay'></a>Що я можу змінити на дисплеї?
+
+Display settings can be edited in SETTINGS, within the SYSTEM category. The Display option is below Export and Import. Once you select DISPLAY, you can change the User Interface (UI) size as well as the app Font size by selecting the size you want. The red dot should be under the size you want to choose.
+
+### <a name='CanIresizebuttonsonCboard'></a>Можна змінити розмір кнопок на Cboard?
+
+Yes! You can resize Tiles or Buttons in SETTINGS. In the category SYSTEM, select DISPLAY and you will be given 3 options for size: Standard, Large, Extra Large. See figure below:
+
+![Показати можливості](/images/help/display.png "Display capabilities")
+
+### <a name='BigScrollButtons'></a>Прокрутка екрану через великі кнопки
+
+It is also possible to scroll up and down a board using a couple of big buttons that can be added from the settings section. This is especially useful for eye-tracker device users, as the buttons allow to scroll the board without needing to slide the screen. To enable this feature, go to the settings section and look for the "enable big scroll buttons " switch. Toggle the switch and save the settings. See figure below:
+
+![Увімкнути великі кнопки прокручування](/images/help/bigScrollSettings.png "Big scroll buttons settings")
+
+Тепер ви побачите кілька великих кнопок вгорі та нижній частині дошки якщо вона досить велика, як відображається на нижче зображенні:
+
+![Великі кнопки прокрутки](/images/help/bigScrollButtons.png "Big scroll buttons")
+
+## <a name='Scanning'></a>Сканування
+
+### <a name='CanIusescanningtechniquestoaccesssymbols'></a>Чи можна використовувати методи сканування для доступу до символів?
+
+Scanning is where the items in the selection set are presented sequentially over time and the user makes a selection indirectly, usually by switch access. SCANNING on Cboard works within SETTINGS and the SYSTEM category. There are different settings for scanning. You should first enable the scanning setting by selecting ENABLE. You can then choose the time delay, as well as the method (either automatic or manual). Please be aware that when using a tablet or smartphone, it may also have its own built-in scanning option.
+
+## <a name='CommunicatorBuilder'></a>Конструктор комунікаторів
+
+### <a name='Whatiscommbuilder'></a>Що таке конструктор комунікатора?
+
+The communicator builder is a feature that allows you to handle boards in order to copy, delete, publish, add and remove them. In order to access to the functionality you need to unlock settings and click on 'Build' buttton. You will see a new page structured on three different tabs: boards, public boards, all my boards. See figure below:
+
+![Конструктор комунікаторів](/images/help/communicator.png "Communicator builder")
+
+### <a name='CommunicatorBoards'></a>Дошки комунікаторів
+
+The default tab you will see in communicator builder is the communicator boards tab, that will display all boards included into your communicator. You can make changes in your communicator from following action buttons:
+
+* Видалити дошку з комунікатора: ця кнопка виходить з дошки з комунікатора, але НЕ БУДЕ видаляти дошку з бази даних, і вона все ще доступна на вкладці "Усі мої дошки".
+
+* Встановити дошку як кореневу: ця кнопка визначатиме дошку як першу дошку, яка відображатиметься кожного разу, коли ви входите в Cboard.
+
+![Дошки комунікаторів](/images/help/communicatorBoards.png "Communicator boards")
+
+### <a name='PublicBoards'></a>Публічні дошки
+
+* Copy board: this buttton will create a copy of the board and it will add it into your communicator. As this is a copy of the public board, you can edit this board as you want without affecting the original public board.
+
+![Публічні дошки](/images/help/PublicBoards.png "Public boards")
+
+### <a name='Allmyboards'></a>Всі мої дошки
+
+Будь ласка, зверніть увагу, що зареєстровані користувачі JUST можуть отримати доступ до цієї вкладки функціональності.
+
+* Видалити дошку з комунікатора: ця кнопка вийде з дошки з комунікатора, але НЕ БУДЕ видалити дошку з бази даних, і вона все ще доступна.
+
+* Додайте дошку до комунікатора: ця кнопка включатиме дошку до комунікатора.
+
+* Publish board: This action will make public the board and it will be displayed under the public boards tab. Everybody can see your board.
+    
+ * Unpublish board: This action will make the board private and it won't be displayed under the public boards tab. Nobody can see your board.
+    
+ * Delete board: This action will delete the board and it cannot be recovered. The board will be removed from the database.
+
+![Всі мої дошки](/images/help/AllmyBoards.png "All my boards")
