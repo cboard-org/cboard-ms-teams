@@ -5,6 +5,7 @@ import ClearIcon from '@material-ui/icons/Clear';
 import IconButton from '@material-ui/core/IconButton';
 import FormControlLabel from '@material-ui/core/FormControlLabel';
 import Switch from '@material-ui/core/Switch';
+import Box from '@material-ui/core/Box';
 
 import Symbol from '../../Symbol';
 import BackspaceButton from './BackspaceButton';
@@ -95,7 +96,8 @@ class SymbolOutput extends PureComponent {
     } = this.props;
 
     const clearButtonStyle = {
-      visibility: symbols.length ? 'visible' : 'hidden'
+      visibility: symbols.length ? 'visible' : 'hidden',
+      'max-height': '15px'
     };
 
     const copyButtonStyle = {
@@ -170,6 +172,15 @@ class SymbolOutput extends PureComponent {
                 : 'SymbolOutput__right__btns'
             }
           >
+          <Box
+            sx={{
+              display: 'flex',
+              flexDirection: 'column',
+              justifyContent: 'center',
+              alignItems: 'baseline',
+              margin: 0
+            }}
+          >
             {navigationSettings.liveMode && (
               <FormControlLabel
                 value="bottom"
@@ -193,6 +204,7 @@ class SymbolOutput extends PureComponent {
               hidden={!symbols.length}
               increaseOutputButtons={increaseOutputButtons}
             />
+            </Box>
           </div>
         </div>
       </div>

@@ -28,7 +28,7 @@
 }
 
 .SymbolOutput__symbol {
-  color: #000;
+  color: #dcdcdc;
 }
 
 .SymbolOutput__value__IconButton {
@@ -95,6 +95,14 @@ svg.Output__icon__sm {
 svg.Output__icon__lg {
   height: 50px;
   width: 50px;
+}
+
+.Live__switch_lg {
+    height: 65%;
+    justify-content: center;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 15px;
 }
 
 /* Prevent the big buttons on small screens */

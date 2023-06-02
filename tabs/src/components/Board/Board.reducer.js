@@ -39,7 +39,7 @@ import {
 } from './Board.constants';
 import { LOGOUT, LOGIN_SUCCESS } from '../Account/Login/Login.constants';
 
-const [...boards] = [...DEFAULT_BOARDS.advanced, ...DEFAULT_BOARDS.picSeePal];
+const [...boards] = [...DEFAULT_BOARDS.advanced, ...DEFAULT_BOARDS.cboardMeeting];
 const initialState = {
   boards,
   output: [],

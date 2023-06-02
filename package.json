@@ -5,8 +5,8 @@
     "author": "",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
-        "install:tabs": "cd tabs && npm install",
-        "installAll": "npm run install:tabs"
+        "install:tabs": "cd tabs && npm install --force",
+        "installAll": "npm run install --force:tabs"
     },
     "devDependencies": {
         "@microsoft/teamsfx-cli": "1.*"

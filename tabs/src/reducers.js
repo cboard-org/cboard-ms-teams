@@ -21,7 +21,7 @@ const boardMigrations = {
       ...state,
       board: {
         ...state.board,
-        boards: [...state.board.boards, ...DEFAULT_BOARDS.picSeePal]
+        boards: [...state.board.boards, ...DEFAULT_BOARDS.cboardMeeting]
       }
     };
   }

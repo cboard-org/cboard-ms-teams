@@ -26,6 +26,7 @@ export class Scroll extends PureComponent {
       <Scannable>
         <div
           className="Scroll__container"
+          id="style-1"
           style={{ ...style, direction }}
           ref={scrollContainerReference}
           {...other}

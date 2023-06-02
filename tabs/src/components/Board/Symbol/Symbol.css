@@ -65,10 +65,6 @@
   pointer-events: none;
 }
 
-.is-dark .Symbol .Symbol__label {
-  color: #fdfdfd;
-}
-
 .Symbol .Symbol__label {
   width: 95%;
   font-size: 0.85rem;

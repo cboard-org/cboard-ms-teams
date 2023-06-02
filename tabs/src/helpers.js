@@ -1,9 +1,10 @@
 import boards from './api/boards.json';
 import picSeePal from './api/corePicSeePal.json';
+import cboardMeeting from './api/cboardMeeting.json';
 
 export const DEFAULT_BOARDS = {
   advanced: boards.advanced,
-  picSeePal: picSeePal
+  cboardMeeting: cboardMeeting
 };
 
 export const dataURLtoFile = (dataurl, filename, checkExtension = false) => {

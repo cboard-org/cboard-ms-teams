@@ -1,0 +1,334 @@
+[
+  {
+    "isPublic": false,
+    "tiles": [
+        {
+            "label": "Can you hear me?",
+            "labelKey": "",
+            "vocalization": "",
+            "image": "/symbols/mulberry/hear_,_to.svg",
+            "loadBoard": "",
+            "sound": "",
+            "type": "button",
+            "backgroundColor": "#fff176",
+            "linkedBoard": false,
+            "id": "thvLoO1wJo"
+        },
+        {
+            "id": "AE1E9ZIUVa",
+            "linkedBoard": false,
+            "backgroundColor": "#fff176",
+            "type": "button",
+            "sound": "",
+            "loadBoard": "",
+            "image": "https://globalsymbols.com/uploads/production/image/imagefile/23332/17_23333_9bc2bcad-1130-4f5d-bf4c-c5aec3439591.png",
+            "vocalization": "",
+            "labelKey": "",
+            "label": "thank you guys"
+        },
+        {
+            "id": "Z33U44TErb",
+            "linkedBoard": false,
+            "backgroundColor": "#4CAF50",
+            "type": "button",
+            "sound": "",
+            "loadBoard": "",
+            "image": "/symbols/mulberry/good.svg",
+            "vocalization": "",
+            "labelKey": "symbol.descriptiveState.good",
+            "label": "bueno"
+        },
+        {
+            "id": "SGNljuaqXa",
+            "linkedBoard": false,
+            "backgroundColor": "#4CAF50",
+            "type": "button",
+            "sound": "",
+            "loadBoard": "",
+            "image": "https://api.arasaac.org/api/pictograms/5584?hair=brown&skin=white",
+            "vocalization": "",
+            "labelKey": "",
+            "label": "yes, right"
+        },
+        {
+            "id": "eX2S8oy3Za",
+            "linkedBoard": false,
+            "backgroundColor": "#E57373",
+            "type": "button",
+            "sound": "",
+            "loadBoard": "",
+            "image": "/symbols/mulberry/no.svg",
+            "vocalization": "",
+            "labelKey": "",
+            "label": "not really "
+        },
+        {
+            "label": "question",
+            "vocalization": "is there any question?",
+            "image": "https://api.arasaac.org/api/pictograms/7217?hair=brown&skin=white",
+            "loadBoard": "",
+            "sound": "",
+            "type": "button",
+            "backgroundColor": "#2196F3",
+            "linkedBoard": false,
+            "id": "qgXKjlyQnw"
+        },
+        {
+            "label": "forwards",
+            "vocalization": "ok, i move forward ",
+            "image": "/symbols/mulberry/forwards.svg",
+            "loadBoard": "",
+            "sound": "",
+            "type": "button",
+            "backgroundColor": "#2196F3",
+            "linkedBoard": false,
+            "id": "hb7KSpwvGWG"
+        },
+        {
+            "label": "show",
+            "vocalization": "let me quickly show you the board that I'm using for my speech now. ",
+            "image": "https://api.arasaac.org/api/pictograms/31902?hair=brown&skin=white",
+            "loadBoard": "",
+            "sound": "",
+            "type": "button",
+            "backgroundColor": "#2196F3",
+            "linkedBoard": false,
+            "id": "Xy1Z90DlVOg"
+        },
+        {
+            "label": "finish",
+            "vocalization": "ok, that would be all I got for my presentation. Please feel free to contact us if you have any questions or comments about c board, .  Thank you very much! ",
+            "image": "https://api.arasaac.org/api/pictograms/32814?hair=brown&skin=white",
+            "loadBoard": "",
+            "sound": "",
+            "type": "button",
+            "backgroundColor": "#fff176",
+            "linkedBoard": false,
+            "id": "KTtBMUjDgze"
+        },
+        {
+            "label": "esta semana",
+            "vocalization": "¿en qué estuviste trabajando esta semana? ",
+            "image": "/symbols/mulberry/this_week.svg",
+            "loadBoard": "",
+            "sound": "",
+            "type": "button",
+            "backgroundColor": "#fff176",
+            "linkedBoard": false,
+            "id": "pkHBfPbrRH"
+        },
+        {
+            "label": "¿en qué vas a trabajar la próxima semana?",
+            "labelKey": "",
+            "vocalization": "",
+            "image": "/symbols/mulberry/next_week.svg",
+            "loadBoard": "",
+            "sound": "",
+            "type": "button",
+            "backgroundColor": "#fff176",
+            "linkedBoard": false,
+            "id": "xHYC04SNTU"
+        },
+        {
+            "label": "¿ tenés algún bloqueo o algún problema? ",
+            "labelKey": "",
+            "vocalization": "",
+            "image": "https://globalsymbols.com/uploads/production/image/imagefile/23790/17_23791_a7ebe54c-7eb6-4a34-9c3c-c190719eadf4.png",
+            "loadBoard": "",
+            "sound": "",
+            "type": "button",
+            "backgroundColor": "#fff176",
+            "linkedBoard": false,
+            "id": "vXnS20nfwf"
+        },
+        {
+            "label": "¿cómo están?",
+            "labelKey": "",
+            "vocalization": "",
+            "image": "https://static.arasaac.org/pictograms/10273/10273_hair-A65E26_skin-F5E5DE_500.png",
+            "loadBoard": "",
+            "sound": "",
+            "type": "button",
+            "backgroundColor": "#fff176",
+            "linkedBoard": false,
+            "id": "a-7e1r2SN1L"
+        },
+        {
+            "label": "esperemos unos minutos para empezar ",
+            "vocalization": "",
+            "image": "/symbols/mulberry/wait_,_to.svg",
+            "loadBoard": "",
+            "sound": "",
+            "type": "button",
+            "backgroundColor": "#2196F3",
+            "linkedBoard": false,
+            "id": "dl8lrod8dv2",
+            "labelKey": ""
+        },
+        {
+            "label": "next slide please ",
+            "vocalization": "",
+            "image": "https://static.arasaac.org/pictograms/9870/9870_hair-A65E26_skin-F5E5DE_500.png",
+            "loadBoard": "",
+            "sound": "",
+            "type": "button",
+            "backgroundColor": "#2196F3",
+            "linkedBoard": false,
+            "id": "9uPgRpXCyB",
+            "labelKey": ""
+        },
+        {
+            "label": "I take it ",
+            "vocalization": "I take this one ",
+            "image": "https://api.arasaac.org/api/pictograms/2617?hair=brown&skin=white",
+            "loadBoard": "",
+            "sound": "",
+            "type": "button",
+            "backgroundColor": "#2196F3",
+            "linkedBoard": false,
+            "id": "8asN0saVOb",
+            "labelKey": ""
+        },
+        {
+            "label": "sorry, let me add something here ",
+            "labelKey": "",
+            "vocalization": "",
+            "image": "/symbols/mulberry/add.svg",
+            "loadBoard": "",
+            "sound": "",
+            "type": "button",
+            "backgroundColor": "#fff176",
+            "linkedBoard": false,
+            "id": "YOCb9Mfxcj"
+        },
+        {
+            "labelKey": "symbol.pronouns.who",
+            "image": "/symbols/arasaac/who.png",
+            "loadBoard": "",
+            "sound": "",
+            "type": "button",
+            "backgroundColor": "#ffffff",
+            "linkedBoard": false,
+            "id": "jBlAYPETnU"
+        },
+        {
+            "labelKey": "symbol.question.what",
+            "image": "/symbols/mulberry/what.svg",
+            "loadBoard": "",
+            "sound": "",
+            "type": "button",
+            "backgroundColor": "#ffffff",
+            "linkedBoard": false,
+            "id": "uYnIWcGGo6"
+        },
+        {
+            "labelKey": "symbol.question.where",
+            "image": "/symbols/mulberry/where_1.svg",
+            "loadBoard": "",
+            "sound": "",
+            "type": "button",
+            "backgroundColor": "#ffffff",
+            "linkedBoard": false,
+            "id": "NBgc4orN0L"
+        },
+        {
+            "labelKey": "symbol.question.why",
+            "image": "/symbols/arasaac/why.png",
+            "loadBoard": "",
+            "sound": "",
+            "type": "button",
+            "backgroundColor": "#ffffff",
+            "linkedBoard": false,
+            "id": "oVm8jjI5gUX"
+        },
+        {
+            "label": "I disagree",
+            "labelKey": "",
+            "vocalization": "",
+            "image": "https://static.arasaac.org/pictograms/16002/16002_hair-A65E26_skin-F5E5DE_500.png",
+            "loadBoard": "",
+            "sound": "",
+            "type": "button",
+            "backgroundColor": "#E57373",
+            "linkedBoard": false,
+            "id": "plCuK3Czs"
+        },
+        {
+            "labelKey": "symbol.question.when",
+            "image": "/symbols/mulberry/when.svg",
+            "loadBoard": "",
+            "sound": "",
+            "type": "button",
+            "backgroundColor": "#ffffff",
+            "linkedBoard": false,
+            "id": "kbfgnzJ72T"
+        },
+        {
+            "label": "let me share my screen",
+            "labelKey": "",
+            "vocalization": "",
+            "image": "https://globalsymbols.com/uploads/production/image/imagefile/15934/17_15935_3d660963-d1fd-4416-9412-480b16548761.png",
+            "loadBoard": "",
+            "sound": "",
+            "type": "button",
+            "backgroundColor": "#fff176",
+            "linkedBoard": false,
+            "id": "Fe8xFaevO"
+        }
+    ],
+    "cellSize": "medium",
+    "locale": "en-US",
+    "format": "cboard",
+    "description": "cboardMeetingBoardDescription",
+    "isFixed": true,
+    "name": "Cboard Meeting",
+    "author": "cboard team",
+    "email": "support@cboard.io",
+    "caption": "/symbols/cboard/picseepal.png",
+    "grid": {
+        "rows": 6,
+        "columns": 4,
+        "order": [
+            [
+                "jBlAYPETnU",
+                "thvLoO1wJo",
+                "SGNljuaqXa",
+                "eX2S8oy3Za"
+            ],
+            [
+                "uYnIWcGGo6",
+                "AE1E9ZIUVa",
+                "Z33U44TErb",
+                "plCuK3Czs"
+            ],
+            [
+                "NBgc4orN0L",
+                "qgXKjlyQnw",
+                null,
+                "Xy1Z90DlVOg"
+            ],
+            [
+                "oVm8jjI5gUX",
+                "pkHBfPbrRH",
+                "xHYC04SNTU",
+                "vXnS20nfwf"
+            ],
+            [
+                "kbfgnzJ72T",
+                "dl8lrod8dv2",
+                "9uPgRpXCyB",
+                "8asN0saVOb"
+            ],
+            [
+                "a-7e1r2SN1L",
+                "YOCb9Mfxcj",
+                "Fe8xFaevO",
+                null
+            ]
+        ]
+    },
+    "lastEdited": "2022-11-28T17:09:50-03:00",
+    "id": "ppmlUcQs15",
+    "hidden": false
+  }
+]
